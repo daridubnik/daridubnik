@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:daridubnik@gmail.com"><img width="32" height="32" src="https://img.icons8.com/ios/32/apple-mail.png"/></a>
+  <a href="mailto:daridubnik@gmail.com"><img width="32" height="32" src="https://img.icons8.com/fluency-systems-regular/32/new-post.png"/></a>
   <a href="https://t.me/+79853937933"><img width="32" height="32" src="https://img.icons8.com/ios/32/telegram.png"/></a>
-  <a href="https://discordapp.com/users/974788231184924682/"><img width="32" height="32" src="https://img.icons8.com/carbon-copy/32/discord-square.png"/></a>
+  <a href="https://discordapp.com/users/974788231184924682/"><img width="32" height="32" src="https://img.icons8.com/ios/32/discord-logo--v1.png"/></a>
 </p>
 
 <p align="center"><samp>Оцени мои репозитории ⬇️</samp></p>
