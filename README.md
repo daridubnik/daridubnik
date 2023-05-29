@@ -1,4 +1,4 @@
-<h4 align="center"><samp>Всем привет 👋🏼 добро пожаловать в мой Github! Я Junior frontend-разработчик из Москвы</samp></h4>
+<h3 align="center"><samp>Всем привет 👋🏼 добро пожаловать в мой Github! Я Junior frontend-разработчик из Москвы</samp></h3>
 
 <p align="center"><samp>Мой стек: HTML5, CSS3, SASS/SCSS, JavaScript, Gulp, git, Figma, Photoshop</samp></p>
 
