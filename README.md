@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Всем привет 👋🏼 добро пожаловать в мой Github! Я Junior frontend-разработчик из Москвы</samp></h3>
+<h4 align="center"><samp>Всем привет 👋🏼 добро пожаловать в мой Github! Я Junior frontend-разработчик из Москвы</samp></h4>
 
 <p align="center"><samp>Мой стек: HTML5, CSS3, SASS/SCSS, JavaScript, Gulp, git, Figma, Photoshop</samp></p>
 
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:daridubnik@gmail.com"><img width="32" height="32" src="https://img.icons8.com/fluency-systems-regular/32/new-post.png"></a>
-  <a href="https://t.me/+79853937933"><img width="32" height="32" src="https://img.icons8.com/fluency-systems-regular/32/telegram-app.png"></a>
-  <a href="https://discordapp.com/users/974788231184924682/"><img width="32" height="32" src="https://img.icons8.com/ios/32/discord-logo--v1.png"/></a>
+  <a href="mailto:daridubnik@gmail.com"><img width="32" height="32" src="https://img.icons8.com/ios/32/apple-mail.png"/></a>
+  <a href="https://t.me/+79853937933"><img width="32" height="32" src="https://img.icons8.com/ios/32/telegram.png"/></a>
+  <a href="https://discordapp.com/users/974788231184924682/"><img width="32" height="32" src="https://img.icons8.com/carbon-copy/32/discord-square.png"/></a>
 </p>
 
 <p align="center"><samp>Оцени мои репозитории ⬇️</samp></p>
