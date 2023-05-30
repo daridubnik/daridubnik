@@ -1,6 +1,6 @@
 <h4 align="center"><samp>Всем привет 👋🏼 добро пожаловать в мой Github! Меня зовут Даша, и я junior frontend-разработчик из Москвы</samp></h4>
 
-<h4 align="center"><samp>Мой стек: HTML5, CSS3, SASS/SCSS, JavaScript, Gulp, git, Figma, Photoshop</samp></h4>
+<p align="center"><samp>Мой стек: HTML5, CSS3, SASS/SCSS, JavaScript, Gulp, git, Figma, Photoshop</samp></p>
 
 <p align="center"><samp>В настоящий момент я занимаюсь pet-проектами, создаю крутые фишки для интерфейсов, <br> углубляю знания по JavaScript и планирую изучить React🚀
 </samp></p>
